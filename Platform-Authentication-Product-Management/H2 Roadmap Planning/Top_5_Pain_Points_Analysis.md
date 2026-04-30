@@ -6,6 +6,7 @@
 - MFA Support Cases 2025 Groupy by Account Name (2).csv - Cases grouped by company
 - Mobile App Store reviews 2025.csv - User feedback from app stores (100+ reviews sampled)
 - Support case data from Q1 2025, Q3 2024, Q4 2024
+- **"Need help signing in" page: 733,744 visits** (February 1 - April 29, 2026)
 
 ---
 
@@ -204,6 +205,7 @@
 **The login/authentication system is the #1 driver of support volume and user frustration.**
 
 ### Quantitative Evidence:
+- **733,744 visits to "Need help signing in" page** (February 1 - April 29, 2026) - massive self-service help demand
 - **6,343+ cases** directly about login/authentication issues (Topics 0, 1, 4 combined)
 - **2,772 cases** about onboarding/profile creation (Topic -1)
 - **>11,000 total cases per quarter** in login/authentication category
@@ -224,3 +226,13 @@
 3. **Travel context**: Worst for mobile users who are traveling (need it most)
 4. **Support dependency**: Can't self-serve; requires IT/admin for basic tasks
 5. **Compounding issues**: Password + 2FA + expired codes + app switching = multiplied frustration
+
+---
+
+## Top 5 Pain Points - Executive Summary
+
+1. **Login Difficulties & Authentication Complexity** - 733K+ help page visits, 4K+ support cases, affects all users; blocks system access and creates immediate negative first impression.
+2. **2FA/Authenticator App Friction** - Daily multi-step authentication burden; QR code failures, code expiration during app switching, and lack of clear instructions drive user frustration and support calls.
+3. **Password Reset Issues** - Users cannot self-serve password resets, require IT/admin escalation, and face circular dependencies when password reset requires 2FA access they've already lost.
+4. **Mobile Session Management Failures** - Forced re-authentication on every app open, SSO redirect failures (especially on managed devices), and no persistent sessions drive mobile app abandonment.
+5. **Initial Onboarding Complexity** - 2,772 cases of users blocked at profile creation, new employees cannot self-serve setup, and first login experience requires training materials and IT support.
